@@ -35,9 +35,10 @@
 &kp  TAB      &kp  Q     &kp  W      &kp  E      &kp  R     &kp  T                                                                                    &kp  Y   &kp  U     &kp  I      &kp  O     &kp  P        &kp  BSPC
 &kp  ESC      &kp  A     &kp  S      &kp  D      &kp  F     &kp  G                                                                                    &kp  H   &kp  J     &kp  K      &kp  L     &kp  SEMI     &kp  SQT
 &kp  LSHFT    &kp  Z     &kp  X      &kp  C      &kp  V     &kp  B             &kp  C_VOL_DW  &kp  C_VOL_UP       &kp  PG_DN  &kp  PG_UP              &kp  N   &kp  M     &kp  COMMA  &kp  DOT   &kp  SLASH    &kp  RSHFT
-&kp  LSHFT    &kp LCTRL  &kp  LALT   &kp  LALT                       &kp LMETA &kp  SPACE     &mo  LOWER          &mo  LOWER  &kp  ENTER &kp  RMETA                       &kp  LALT   &kp  RCTRL &kp  RCTRL  &kp  RSHFT
+&kp  LSHFT    &kp LCTRL  &kp  LALT   &kp  LALT                       &kp LMETA &kp  SPACE     &mo  LOWER          &mo  LOWER  &kp  ENTER &kp  RMETA                       &kp  LALT   &kp  RCTRL &kp  RCTRL    &kp  RSHFT
                         >;
                 };
+
 
                 lower_layer {
 /* QWERTY
