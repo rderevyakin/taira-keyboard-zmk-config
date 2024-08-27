@@ -32,9 +32,9 @@
 
                         bindings = <
 &kp F12        &kp  F1      &kp  F2      &kp  F3     &kp  F4     &kp  F5                                                                        &kp  F6    &kp  F7    &kp  F8     &kp  F9     &kp  F10      &kp  F11
-&trans         &trans       &trans       &trans      &trans      &trans                                                                         &kp  LBKT  &kp  RBKT  &kp  LPAR   &kp  RPAR   &kp  PLUS     &kp  DEL
+&trans         &trans       &trans       &trans      &trans      &trans                                                                         &kp  LT    &kp  GT    &kp  LPAR   &kp  RPAR   &kp  PLUS     &kp  DEL
 &trans         &trans       &trans       &trans      &trans      &trans                                                                         &kp  LEFT  &kp  DOWN  &kp  UP     &kp  RIGHT  &kp  EQUAL    &kp LS(BSLH)
-&trans         &trans       &trans       &trans      &trans      &trans             &trans      &trans       &trans     &trans                  &kp  LT    &kp  GT    &kp  LPAR   &kp  RPAR   &kp  MINUS    &kp BSLH
+&trans         &trans       &trans       &trans      &trans      &trans             &trans      &trans       &trans     &trans                  &kp  LBKT  &kp  RBKT  &kp  LPAR   &kp  RPAR   &kp  MINUS    &kp BSLH
 &trans         &trans       &trans       &trans                           &trans    &trans      &none        &none      &trans    &trans                              &trans      &trans      &trans        &trans
                         >;
                 };
