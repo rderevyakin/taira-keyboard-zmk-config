@@ -24,7 +24,7 @@
 &kp  TAB      &kp  Q     &kp  W      &kp  E      &kp  R     &kp  T                                                                                      &kp  Y   &kp  U     &kp  I      &kp  O     &kp  P        &kp  BSPC
 &kp  ESC      &kp  A     &kp  S      &kp  D      &kp  F     &kp  G                                                                                      &kp  H   &kp  J     &kp  K      &kp  L     &kp  SEMI     &kp  SQT
 &kp  LSHFT    &kp  Z     &kp  X      &kp  C      &kp  V     &kp  B             &kp  C_VOL_DN    &kp  C_VOL_UP   &kp  PG_DN  &kp  PG_UP                  &kp  N   &kp  M     &kp  COMMA  &kp  DOT   &kp  SLASH    &kp  RSHFT
-&kp  LSHFT    &kp LCTRL  &kp  LCTRL  &kp  LALT                       &kp LMETA &kp  SPACE       &mo  LOWER      &mo  LOWER  &kp  ENTER  &kp  RMETA                    &kp  RALT   &kp  RCTRL &kp  RCTRL    &kp  RSHFT
+&kp  LSHFT    &kp LCTRL  &kp  LCTRL  &kp  LALT                       &kp LMETA &kp  SPACE       &mo  LOWER      &mo  LOWER  &kp  ENTER  &kp  RMETA                          &kp  RALT   &kp  RCTRL &kp  RCTRL    &kp  RSHFT
                         >;
                 };
 
@@ -32,10 +32,10 @@
 
                         bindings = <
 &kp F12        &kp  F1      &kp  F2      &kp  F3     &kp  F4     &kp  F5                                                                        &kp  F6    &kp  F7    &kp  F8     &kp  F9     &kp  F10      &kp  F11
-&trans         &trans       &trans       &trans      &trans      &trans                                                                         &kp  LBKT  &kp  RBKT  &kp  LPAR   &kp  LS(N9) &kp  LS(N0)   &kp  DEL
+&trans         &trans       &trans       &trans      &trans      &trans                                                                         &kp  LBKT  &kp  RBKT  &kp  LPAR   &kp  RPAR   &kp  PLUS     &kp  DEL
 &trans         &trans       &trans       &trans      &trans      &trans                                                                         &kp  LEFT  &kp  DOWN  &kp  UP     &kp  RIGHT  &kp  EQUAL    &kp LS(BSLH)
 &trans         &trans       &trans       &trans      &trans      &trans             &trans      &trans       &trans     &trans                  &kp  LT    &kp  GT    &kp  LPAR   &kp  RPAR   &kp  MINUS    &kp BSLH
-&trans         &trans       &trans       &trans                           &trans    &trans      &none        &none      &trans    &trans                              &trans      &trans     &trans        &trans
+&trans         &trans       &trans       &trans                           &trans    &trans      &none        &none      &trans    &trans                              &trans      &trans      &trans        &trans
                         >;
                 };
 
